@@ -38,7 +38,7 @@ Scans for commonly exposed files that should be protected:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/SecurityScanner.git
+git clone https://github.com/JacobLehman7842/SecurityScanner.git
 cd SecurityScanner
 ```
 
